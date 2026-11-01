@@ -1,0 +1,37 @@
+# Build & CMake artifacts
+build/
+bin/
+lib/
+out/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# IDE & Editor configs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.vs/
+*.sln
+*.vcxproj*
+.idea/
+
+# Binaries, objects, libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.a
+*.lib
+
+# Logs & temp
+*.log
+*.tmp
