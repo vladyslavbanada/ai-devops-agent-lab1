@@ -1,5 +1,6 @@
 # Build & CMake artifacts
 build/
+.cache/
 bin/
 lib/
 out/
